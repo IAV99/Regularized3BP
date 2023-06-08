@@ -1,1 +1,1 @@
-# Wald
+# Numerical solution for regularized three-body problem 
